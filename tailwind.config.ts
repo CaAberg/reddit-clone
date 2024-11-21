@@ -9,12 +9,13 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        sans: ['var(--font-opensans)']
+        sans: ['var(--font-opensans)'],
       }, 
       
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        backgroundneutral: "var(--background-neutral)",
       },
     },
   },
