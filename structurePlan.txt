@@ -1,0 +1,50 @@
+---->mainpage                                                                            Header
+
+                                                    icon - search bar - chats - create - notifications - profile icon 
+                                                                                                          dark mode   
+                                                                                                           log out 
+                                                                                                          settings
+
+s   home
+i   explore                                 
+d   communities
+e   resources
+b   content policy                  
+a   privacy policy                                                                         
+r   user agreement                                                                         
+    copyright mark          
+                                                                                        sort by bar
+                                                                                    dropdown menu sort by 
+                                                                                            best                                                                                                   
+                                                                                            hot
+                                                                                            new
+                                                                                           rising
+
+
+
+
+
+
+
+                                                                                           Posts
+                                                                                            
+                                                                                            post
+                                    community name - -timestamp - promoted/not - join community - options for post (report/show fewer/hide/save post)
+                                                                                        (spoiler warning)
+                                                                                           post title
+                                                                                          (post image)
+                                                                                           post text
+                                                                                voteup-votedown - comments - share 
+
+
+
+
+
+
+
+
+
+components --------> 
+
+
+
