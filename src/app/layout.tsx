@@ -7,6 +7,8 @@ import Header from "./components/Header";
 export const metadata: Metadata = {
   title: "Reddit-Dive into anything",
   description: "Reddit is a network of communities where people can dive into their interests, hobbies and passions. There's a community for whatever you're interested in on Reddit.",
+  icons: {
+    icon: "/favicon.ico"},
 };
 
 const opensans = Open_Sans({

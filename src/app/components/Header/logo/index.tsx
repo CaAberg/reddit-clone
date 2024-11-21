@@ -8,7 +8,6 @@ const Logo: React.FC = () => {
         <Image
           src="/redditBannerWHITE.png"
           alt="Reddit Banner White"
-          objectFit="contain"
           height={56}
           width={140}
         />
@@ -16,8 +15,7 @@ const Logo: React.FC = () => {
       <div className=" md:hidden flex">
         <Image
           src="/redditLogo.png"
-          alt="Reddit Logo"
-          objectFit="contain"
+          alt="Reddit Logo"  
           height={48}
           width={48}
         />
