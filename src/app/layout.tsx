@@ -3,6 +3,7 @@ import {Open_Sans} from "next/font/google";
 import "./globals.css";
 
 import Header from "./components/Header";
+import DesktopSidebar from "./components/Sidebar/desktopSidebar";
 
 export const metadata: Metadata = {
   title: "Reddit-Dive into anything",
@@ -27,6 +28,7 @@ export default function RootLayout({
         className={`${opensans.variable} font-sans`}
       >
         <Header/>
+        <DesktopSidebar />
         {children}
       </body>
     </html>

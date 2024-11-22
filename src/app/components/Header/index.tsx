@@ -5,10 +5,12 @@ import NotificationsIcon from "./NotificationsIcon";
 import ProfileDropdown from "./profileDropdown";
 import SearchBar from "./searchbar";
 import Logo from "./logo";
+import MobileSidebar from "../Sidebar/mobileSideBar";
 
 const Header: React.FC = () => {
   return (
     <header className="flex items-center px-2 py-2 text-white border-b w-full">
+      <MobileSidebar />
       <div className="flex ">
       <Logo />
       </div>
